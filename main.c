@@ -5,6 +5,7 @@
 #define SS 100
 #define MAX 100
 
+// Hello!
 char infix[MAX], infix2[MAX];
 
 int main()
